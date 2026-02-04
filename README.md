@@ -130,8 +130,9 @@ input{
 <div class="page active" id="page1">
   <div class="overlay"></div>
   <div class="card">
-    <div class="name">tiya</div>
-    <p>Since 01 March 2023 ❤️</p><br>
+    <div class="name">kuttiii</div>
+    <p>Since 01 March 2023 ❤️
+    yo are my valentine to tu na ni bol skti </p><br>
     <button id="yes" onclick="goPage(2)">YES 💍</button>
     <button id="no">NO 😭</button>
   </div>
@@ -159,11 +160,27 @@ input{
   </div>
 
   <div class="letter">
-    Tiya,<br><br>
+    chotu don jii<br><br>
     Tum meri life ka sabse soft aur strong hissa ho.  
     Tumhare saath har memory ek blessing lagti hai.  
     I don’t need perfect days —  
     I just need you in all my days ❤️
+    the best part of my life ki tera mere sath hona
+    Tere nakhre uthane me bhi maja ata 😂😋
+Or jab tu gusse me Hoti tbh to aye hayee 🥹😚 maja ata teko dekhne me 
+Kbhi bhi to tu bht hala krti pr maja ata 😁😁
+Tere sath bitaye har movement kushi ladhi ruthna manana sab best hai 😚😚
+Teri chudel wali harkate sali pagal si 
+Kbhi kbhi sochta hu ki
+Agr hum sath ni hote to kay hota hum dono pagalo ka 😂
+Tu to sudhri rhti 😂
+Kair xod na hu n me tere sath to ni sochna esa 
+Dono  pagal ek jese hai 😚
+36 ke 36 gudh mile hai syed hamare bhi 🤭🤭
+But thank you soo much for everything 🤭🩷👥
+Cudel si dayan 
+Teri bachi wali harkate sab se best pagl si 🤭😚kutti kamini 
+Notanki baj khi ki 🤭🤭
   </div>
 </div>
 
@@ -215,10 +232,10 @@ function nextRiddle(){
 
 /* PHOTO + SLIDESHOW */
 const memories=[
-  "Is photo ke saath ek simple si feeling judi hai — sukoon.",
-  "Is moment mein mujhe realise hua, tum meri safe place ho.",
-  "Har smile ke peeche tumhara haath tha.",
-  "Ye memory meri favorite hai… kyunki isme tum ho."
+  "Is photo ke saath ek simple si feeling judi hai — sukoon yad hai tu kese sarma ri thi us din jab mepe yeh phto ayii heheh.",
+  "Is moment mein mujhe realise hua, tum meri safe place ho kese hum coching me sath me padhte bethte smjhte the qutions ko ek dusre ko smjhate .",
+  "Har smile ke peeche tumhara haath tha yad hai us din tera bithday tha tu aayi kese mene teko hug kiya fir ......",
+  "Ye memory meri favorite hai… kyunki isme tum ho is time pe hmari bht ladai hui mele ke time pe mene bola tu mese ml ni ri pr fir bhi maja aaya is din ."
 ];
 
 let currentIndex=0;
